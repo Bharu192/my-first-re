@@ -1,2 +1,5 @@
-# my-first-re
-Learning DevOps using GitHub
+student Login/Logout
+View Attendance
+Check Grades
+Course Registration
+Notification
